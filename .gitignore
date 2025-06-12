@@ -1,0 +1,17 @@
+# Godot 4+ specific ignores
+.godot/
+.qodo/
+*.apk
+*.exe
+.VSCodeCounter/
+/android/
+/assets/bak/
+/assets/bgm/
+/assets/char/
+/assets/grp/
+/assets/movie/
+/assets/script/
+/assets/se/
+/assets/voice/
+/assets/fonts/cn
+/assets/fonts/fzzyjt.ttf
